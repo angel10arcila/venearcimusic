@@ -1,4 +1,3 @@
-  
 // Configuración de medios predefinidos
 const mediaFiles = [
 
@@ -99,6 +98,29 @@ const mediaFiles = [
      
      {
          name: "A romantic comedy - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
+         type: "audio"
+     },
+  
+     {
+         name: "Halkin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
+         type: "audio"
+     },
+  
+     {
+         name: "Tortuguin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
+         type: "audio"
+     },
+  
+     {
+         name: "Y te encontré - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
+         type: "audio"
+     },
+     {
+         name: "Tú  eres mi súper héroe - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
          type: "audio"
      },
