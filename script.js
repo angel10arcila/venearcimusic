@@ -1,6 +1,11 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
+    {
+         name: "Venearci music - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Venearci-music.mp3",
+         type: "audio"
+     },
      {
          name: "Lamborghini - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini - Ángel José Arcila Parra .mp3",
