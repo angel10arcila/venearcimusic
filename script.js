@@ -163,7 +163,7 @@ const mediaFiles = [
     
      {
          name: "24/7 - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerato version ranchera.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/24-7 (1) Letra y Música de Ángel José Arcila Parra.mp3",
          type: "audio"
      },
     {
