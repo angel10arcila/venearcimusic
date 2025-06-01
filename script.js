@@ -135,7 +135,7 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tu eres mi súper héroe - Bachata Ángel José Arcila Parra.mp3",
          type: "audio"
      },
-    {
+     {
          name: "El Llanerato Vallenato 1 - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerato - Versión Vallenata.mp3",
          type: "audio"
@@ -182,14 +182,13 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lluviecita - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
-    
      {
          name: "Llanerita - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerita - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
    
-];
+]
 
 let currentTrack = 0;
 const mediaPlayer = document.getElementById('mediaPlayer');
