@@ -184,13 +184,8 @@ const mediaFiles = [
      },
     
      {
-         name: "Lluviecita - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/
-     {
-         name: "Llanerita  - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lluviecita - Ángel José Arcila Parra .mp3",
-         type: "audio"
-     },",
+         name: "Llanerita - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerita - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
    
