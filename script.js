@@ -187,7 +187,13 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerita (VMD) - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
-   
+    
+     {
+         name: "Vamos vinotinto - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+
 ]
 
 let currentTrack = 0;
