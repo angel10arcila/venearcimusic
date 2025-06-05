@@ -193,6 +193,12 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto - Ángel José Arcila Parra.mp3",
          type: "audio"
      },
+    
+     {
+         name: "Vamos vinotinto (reggaeton)- Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto (Reggaeton) - Ángel José Arcila Parra",
+         type: "audio"
+     },
 
 ]
 
