@@ -3,8 +3,14 @@ const mediaFiles = [
 
    
     {
-         name: "Gingle Promocional De Venearci music - Voz Ángel José Arcila Parra",
+         name: "Gingle Venearci music - Voz Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Gigle Venearci Music - Voz de Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+
+     {
+         name: "Halkin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Halkin versión 4 - Ángel José Arcila Parra.mp3",
          type: "audio"
      },
    
@@ -22,6 +28,12 @@ const mediaFiles = [
      {
          name: "Vamos vinotinto (reggaeton)- Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Vamos vinotinto (Reggaeton) - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
+   
+     {
+         name: "Tortuguin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3",
          type: "audio"
      },
      {
@@ -129,19 +141,7 @@ const mediaFiles = [
          name: "A romantic comedy - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/_A romantic comedy_ Letra y Música de Ángel José Arcila Parra - Álbum - Debut. (320).mp3",
          type: "audio"
-     },
-  
-     {
-         name: "Halkin - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Halkin versión 4 - Ángel José Arcila Parra.mp3",
-         type: "audio"
-     },
-  
-     {
-         name: "Tortuguin - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3",
-         type: "audio"
-     },
+     },  
   
      {
          name: "Y te encontré - Ángel José Arcila Parra",
