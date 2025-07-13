@@ -36,6 +36,12 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3",
          type: "audio"
      },
+   
+     {
+         name: "Qué vaina, que manía (Llanera) - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía (V2) - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
      {
          name: "Lamborghini - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini - Ángel José Arcila Parra .mp3",
