@@ -48,6 +48,13 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía (V. Vallenato) Ángel José Arcila Parra .mp3",
          type: "audio"
      },
+
+    
+     {
+         name: "Qué vaina, que manía (Reguetón) - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía ( reguetón ) Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
    
      {
          name: "Lamborghini - Ángel José Arcila Parra",
