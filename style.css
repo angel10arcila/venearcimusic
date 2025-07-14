@@ -1,4 +1,4 @@
-:root {
+ :root {
   --primary: #fff;
   --secondary: #000080;
   --accent: #00317c;
@@ -68,7 +68,7 @@ body {
     .btn-redes:hover {
    background: #000080;
   transform: scale(1.05);
-      }
+    }
 
 .player-container {
   max-width: 100%;
@@ -97,13 +97,15 @@ video {
   border-radius: 0px;
 }
 
+
 .playlist {
   background: #032F60; 
   border-radius: 10px;
   padding: 15px;
-  max-height: 200px;
+  max-height: 160px;
   overflow-y: auto;
 }
+
 
 .playlist-item {
   padding: 10px 15px;
@@ -165,7 +167,7 @@ button:hover {
 
 .profile-thumb {
       position: absolute;
-      top: 315px; left: 32px;
+      top: 290px; left: 32px;
       width:38px; height: 38px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
@@ -174,4 +176,77 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
+  
+.profile-thumb2 {
+      position: absolute;
+      top: 405px; right: 239px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+      background: #fff;
+    }
     
+.profile-thumb2:hover {
+   background: #000080;
+  transform: scale(1.05);
+}
+
+    .profile-thumb3 {
+      position: absolute;
+      top: 405px; right: 160px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+      background: #fff;
+    }
+    
+.profile-thumb3:hover {
+   background: #000080;
+  transform: scale(1.05);
+}
+
+    .profile-thumb4 {
+      position: absolute;
+      top: 405px; right: 199px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+      background: #fff;
+    }
+
+.profile-thumb4:hover {
+   background: #000080;
+  transform: scale(1.05);
+}
+
+ 
+    .profile-thumb5 {
+      position: absolute;
+      top: 405px; right: 120px;
+      width:28px; height: 28px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+      background: #fff;
+    }
+
+.profile-thumb5:hover {
+   background: #000080;
+  transform: scale(1.05);
+  }
+  
