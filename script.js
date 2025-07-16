@@ -229,26 +229,33 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerita (VMD) - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
+   
    {
-    name: "Fast furious 11 return-1",
+    name: "Fast furious 11 return-1 - Ángel José Arcila Parra",
+    url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return (Ángel José Arcila Parra - venearci music).mp3",
+    type: "Audio"
+},
+   
+   {
+    name: "Fast furious 11 return-2 - Ángel José Arcila Parra",
     url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return - Ángel José Arcila Parra - venearci music .mp3",
     type: "Audio"
 },
 
 {
-    name: "Fast furious 11 return-2",
+    name: "Fast furious 11 return-3 - Ángel José Arcila Parra",
     url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return - Ángel José Arcila Parra venearci music .mp3",
     type: "Audio"
 },
 
 {
-    name: "Fast furious 11 return-3",
+    name: "Fast furious 11 return-4 - Ángel José Arcila Parra",
     url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return 11 (2) Ángel José Arcila Parra - venearci music..mp3",
     type: "Audio"
 },
 
 {
-    name: "Fast furious 11 return-4",
+    name: "Fast furious 11 return-5 - Ángel José Arcila Parra",
     url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return 3 - Ángel José Arcila Parra - venearci music .mp3",
     type: "Audio"
 },
