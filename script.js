@@ -229,6 +229,30 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Llanerita (VMD) - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
+   {
+    name: "Fast-1",
+    url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return - Ángel José Arcila Parra - venearci music .mp3",
+    type: "Audio"
+},
+
+{
+    name: "Fast-2",
+    url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return - Ángel José Arcila Parra venearci music .mp3",
+    type: "Audio"
+},
+
+{
+    name: "Fast-3",
+    url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return 11 (2) Ángel José Arcila Parra - venearci music..mp3",
+    type: "Audio"
+},
+
+{
+    name: "Fast-4",
+    url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fast 11 return 3 - Ángel José Arcila Parra - venearci music .mp3",
+    type: "Audio"
+},
+   
     
 
 ]
