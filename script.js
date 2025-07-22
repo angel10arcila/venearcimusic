@@ -43,12 +43,6 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía - Silvestre Dangond ft. Ángel José Arcila Parra - Venearci Music..mp3",
          type: "audio"
      },
-   
-     {
-         name: "Qué vaina, que manía (Ft. Silvestre 2) - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía (4) - Ángel José Arcila Parra .mp3",
-         type: "audio"
-     },
      {
          name: "Qué vaina, que manía (Llanera) - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía (V2) - Ángel José Arcila Parra.mp3",
