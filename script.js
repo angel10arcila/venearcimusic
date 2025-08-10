@@ -83,7 +83,13 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Somos tal para cual - Letra de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
-     
+
+   
+     {
+         name: "Mi mayor tesoro - Silvestre ft. Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Mi mayor tesoro (Vallenato) - Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },
      {
          name: "Mi mayor tesoro - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Mi mayor tesoro - bachata- Letra de Ángel José Arcila Parra .mp3",
