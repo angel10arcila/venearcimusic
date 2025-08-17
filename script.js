@@ -36,7 +36,12 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3",
          type: "audio"
      },
-
+       
+     {
+         name: "Cuándo quiero - Silvestre ft. Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Cuando quiero - Silvestre ft. Ángel José Arcila Parra .mp3",
+         type: "audio"
+     },   
    
      {
          name: "Qué vaina, que manía (Ft. Silvestre) - Ángel José Arcila Parra",
@@ -85,20 +90,12 @@ const mediaFiles = [
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tú locura - V+ Letra de Ángel José Arcila Parra.mp3",
          type: "audio"
      },
-
-   
-     {
-         name: "Cuándo quiero - Silvestre ft. Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Cuando quiero - Silvestre ft. Ángel José Arcila Parra .mp3",
-         type: "audio"
-     },
    
      {
          name: "Somos tal para cuál - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Somos tal para cual - Letra de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
-
    
      {
          name: "Mi mayor tesoro - Silvestre ft. Ángel José Arcila Parra",
