@@ -38,13 +38,13 @@ const mediaFiles = [
      },
        
      {
-         name: "Cuándo quiero - Silvestre ft. Ángel José Arcila Parra",
+         name: "Cuándo quiero - (Maqueta para Silvestre Dangond) ft. Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Cuando quiero - Silvestre ft. Ángel José Arcila Parra .mp3",
          type: "audio"
      },   
    
      {
-         name: "Qué vaina, que manía (Ft. Silvestre) - Ángel José Arcila Parra",
+         name: "Qué vaina, que manía (Maqueta para Silvestre Dangond) ft. Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Que vaina, que manía - Silvestre Dangond ft. Ángel José Arcila Parra - Venearci Music..mp3",
          type: "audio"
      },
@@ -74,7 +74,7 @@ const mediaFiles = [
 
    
      {
-         name: "Lamborghini - Ángel José Arcila Parra",
+         name: "Lamborghini (Maqueta para Silvestre Dangond) ft. Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Lamborghini  Silvestre ft Ángel José Arcila Parra .mp3",
          type: "audio"
      },
@@ -98,7 +98,7 @@ const mediaFiles = [
      },
    
      {
-         name: "Mi mayor tesoro - Silvestre ft. Ángel José Arcila Parra",
+         name: "Mi mayor tesoro (Maqueta para Silvestre Dangond) ft. Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Mi mayor tesoro (Vallenato) - Ángel José Arcila Parra .mp3",
          type: "audio"
      },
